@@ -171,7 +171,7 @@ D as the least-significant bit.</string>
           </testData>
         </entry>
       </elementAttributes>
-      <pos x="740" y="-80"/>
+      <pos x="500" y="-100"/>
     </visualElement>
   </visualElements>
   <wires>
